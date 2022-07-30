@@ -119,10 +119,10 @@
               <p style="color:#EEA578; font-weight: 700;">Consultez mes articles</p>
             </div>
           </div>
-        </div>
+       
 
         <!-- END main-content -->
-                  <div class="row mb-5 mt-5">
+            <div class="row mb-5 mt-5">
 
             <div class="col-md-12">
               <h2 class="mb-4">Mes articles</h2>
@@ -179,6 +179,7 @@
               <!-- END post -->
             </div>
           </div>
+      </div>
         <div class="col-md-12 col-lg-4 sidebar">
           <!-- END sidebar-box -->
           <div class="sidebar-box">
